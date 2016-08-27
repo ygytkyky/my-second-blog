@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+venv2
+dgtest_db
+/static
+.DS_Store
